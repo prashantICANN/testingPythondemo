@@ -158,3 +158,7 @@
 2024-09-07 21:25:41 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\Win11 Pro\.cache\selenium\chromedriver\win64\128.0.6613.119\chromedriver.exe
 2024-09-07 21:25:43 INFO  LoginTest:37 - Login Test Started
 2024-09-07 21:25:44 INFO  LoginTest:41 - Login Test COmpleted Successfully 
+2024-09-08 00:12:20 INFO  WebDriverManager:1217 - Using chromedriver 128.0.6613.119 (resolved driver for Chrome 128)
+2024-09-08 00:12:21 INFO  WebDriverManager:1270 - Exporting webdriver.chrome.driver as C:\Users\Win11 Pro\.cache\selenium\chromedriver\win64\128.0.6613.119\chromedriver.exe
+2024-09-08 00:12:25 INFO  LoginTest:37 - Login Test Started
+2024-09-08 00:12:26 INFO  LoginTest:41 - Login Test COmpleted Successfully 

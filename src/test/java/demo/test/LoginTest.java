@@ -39,6 +39,7 @@ public class LoginTest extends BaseClass{
 		takeScreenShot(driver);
 		loginP.verifyTitle();
 		logger.info("Login Test COmpleted Successfully ");
+		System.out.println("Test case passed successfully");
 	}
 	
 	
